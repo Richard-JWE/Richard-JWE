@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I am a passionate software developer from Ireland</h3>
 
-Was a student at <a href="https://www.gmit.ie/higher-diploma-in-science-in-software-development" rel="nofollow">Atlantic Technological University, Galway </a>  and looking for employment now
+Was a student at <a href="https://www.gmit.ie/higher-diploma-in-science-in-software-development" rel="nofollow">Atlantic Technological University </a>  and looking for employment now
 
 
 - 🌱 [![Follow](https://img.shields.io/github/followers/Richard-JWE?label=Follow&style=social)](https://github.com/Richard-JWE)
