@@ -1,4 +1,4 @@
-<h3 align="center">A passionate developer from Ireland</h3>
+<h3 align="center">Hi, I'am a passionate developer from Ireland</h3>
 
 
 - 🌱 [![Follow](https://img.shields.io/github/followers/Richard-JWE?label=Follow&style=social)](https://github.com/Richard-JWE)
