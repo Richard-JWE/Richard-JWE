@@ -2,7 +2,7 @@
 
 Was a student at <a href="https://www.gmit.ie/higher-diploma-in-science-in-software-development" rel="nofollow">Atlantic Technological University </a>  and looking for employment now
 
-<u>Connect with me</u>
+<u>Social links</u>
 
 [![Follow](https://img.shields.io/github/followers/Richard-JWE?label=Follow&style=social)](https://github.com/Richard-JWE)
 
