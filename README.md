@@ -36,7 +36,29 @@
 
 <div style="margin-top: 20px;">
   <a href="https://github.com/Richard-JWE"><img src="https://img.shields.io/github/followers/Richard-JWE?label=Follow&style=social" alt="Follow" /></a>
-  <a href="https://www.linkedin.com/in/richard-jameson-b89730133/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" /></a>
+</div>
+
+<div style="margin-top: 20px;">
+  <a href="https://github.com/Richard-JWE"><img src="https://img.shields.io/github/followers/Richard-JWE?label=Follow&style=social" alt="Follow" /></a>
+  <a href="https://www.linkedin.com/in/richard-jameson-b89730133/" class="custom-linkedin-btn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" />
+  </a>
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richard-jwe&" alt="richard-jwe" /></p>
+
+.custom-linkedin-btn {
+  /* Add your custom styles here */
+  text-decoration: none; /* Remove underline */
+  display: inline-block; /* Make it an inline block */
+  padding: 10px 15px; /* Add padding */
+  border-radius: 5px; /* Add border-radius */
+  background-color: #2867b2; /* Change background color */
+  color: white; /* Change text color */
+  font-weight: bold; /* Make text bold */
+}
+
+.custom-linkedin-btn:hover {
+  background-color: #0e5aa7; /* Change background color on hover */
+}
+
