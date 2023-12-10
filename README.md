@@ -1,4 +1,4 @@
-<h3 align="left">Hello! I'm Richard, a dedicated software developer hailing from Ireland with a strong passion for crafting exceptional software solutions</h3>
+<h3 align="left">Hi, I'm Richard, a dedicated software developer from Ireland with a strong passion for software </h3>
 
 Was a student at <a href="https://www.gmit.ie/higher-diploma-in-science-in-software-development" rel="nofollow">Atlantic Technological University </a>  and looking for employment now
 
