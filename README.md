@@ -29,12 +29,13 @@
   <div style="margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/Computational%20Thinking%20with%20Algorithms-green?style=for-the-badge" alt="Computational Thinking with Algorithms" />
   </div>
+  <br>
   <div style="margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/Agile%20Software%20Development-yellowgreen?style=for-the-badge" alt="Agile Software Development" />
   </div>
 </div>
 
-
+<br>
 <div style="margin-top: 20px;">
   <a href="https://github.com/Richard-JWE"><img src="https://img.shields.io/github/followers/Richard-JWE?label=Follow&style=social" alt="Follow" /></a>
 </div>
