@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" />
   </a>
 </div>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richard-jwe&" alt="richard-jwe" /></p>
 
 
