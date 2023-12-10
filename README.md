@@ -3,7 +3,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px; border: 1px solid #ccc;">
   <div style="margin-bottom: 10px; pointer-events: none;">
-    <img src="https://img.shields.io/badge/Object%20Oriented%20Software%20Development-green?style=for-the-badge" alt="Object Oriented Software Development" />
+   <img src="https://img.shields.io/badge/Object%20Oriented%20Software%20Development-green?style=for-the-badge" alt="Object Oriented Software Development" style="pointer-events: none;" />
   </div>
   <div style="margin-bottom: 10px; pointer-events: none;">
     <img src="https://img.shields.io/badge/Computer%20Architecture%20and%20Technology%20Convergence-yellow?style=for-the-badge" alt="Computer Architecture and Technology Convergence" />
