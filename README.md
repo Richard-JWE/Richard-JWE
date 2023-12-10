@@ -16,7 +16,6 @@ Was a student at <a href="https://www.gmit.ie/higher-diploma-in-science-in-softw
 <img src="https://img.shields.io/badge/Mobile%20Applications%20Development-purple?style=for-the-badge" alt="Mobile Applications Development" />
 <img src="https://img.shields.io/badge/Operating%20Systems%20and%20Cloud%20Computing-blueviolet?style=for-the-badge" alt="Operating Systems and Cloud Computing" />
 <img src="https://img.shields.io/badge/Computational%20Thinking%20with%20Algorithms-green?style=for-the-badge" alt="Computational Thinking with Algorithms" />
-
 <img src="https://img.shields.io/badge/Agile%20Software%20Development-yellowgreen?style=for-the-badge" alt="Agile Software Development" />
 
 
