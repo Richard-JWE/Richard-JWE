@@ -1,4 +1,4 @@
-<h3 align="left">Hi, I'm Richard, a dedicated software developer from Ireland with a strong passion for software </h3>
+<h3 align="left">Hi, I'm Richard, a dedicated software developer from Ireland </h3>
 
 Was a student at <a href="https://www.gmit.ie/higher-diploma-in-science-in-software-development" rel="nofollow">Atlantic Technological University </a>  and looking for employment now
 
@@ -16,5 +16,6 @@ Was a student at <a href="https://www.gmit.ie/higher-diploma-in-science-in-softw
 ![Mobile Applications Development](https://img.shields.io/badge/Mobile%20Applications%20Development-purple?style=for-the-badge)
 ![Operating Systems and Cloud Computing](https://img.shields.io/badge/Operating%20Systems%20and%20Cloud%20Computing-blueviolet?style=for-the-badge)
 ![Computational Thinking with Algorithms](https://img.shields.io/badge/Computational%20Thinking%20with%20Algorithms-green?style=for-the-badge)
-![Agile Software Development](https://img.shields.io/badge/Agile%20Software%20Development-yellowgreen?style=for-the-badge)
+<img src="https://img.shields.io/badge/Agile%20Software%20Development-yellowgreen?style=for-the-badge" alt="Agile Software Development" />
+
 
