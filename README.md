@@ -32,7 +32,7 @@
   <div style="margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/Agile%20Software%20Development-yellowgreen?style=for-the-badge" alt="Agile Software Development" />
   </div>
-</div>>
+</div>
 
 
 <div style="margin-top: 20px;">
