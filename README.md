@@ -1,6 +1,5 @@
 <h3>Hello, my name is Richard, and I'm from Ireland</h3>
 
-I enjoy AWS and learning about software
 <br>
 <div style="margin-top: 20px;">
   <a href="https://github.com/Richard-JWE"><img src="https://img.shields.io/github/followers/Richard-JWE?label=Follow&style=social" alt="Follow" /></a>
@@ -13,7 +12,6 @@ I enjoy AWS and learning about software
 
 
 
-```markdown
 # Richard's Profile
 
 Hello! I'm Richard from Ireland, a passionate software developer enthusiastic about AWS.
@@ -31,7 +29,6 @@ Hello! I'm Richard from Ireland, a passionate software developer enthusiastic ab
 ## Interests
 - **Passion:** Dedicated to mastering AWS and advancing software development expertise.
 
-```
 
 
 
