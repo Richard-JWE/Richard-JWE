@@ -1,5 +1,3 @@
-<h3>Hello, my name is Richard</h3>
- 
 
 
 ```markdown
