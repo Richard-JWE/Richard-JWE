@@ -1,4 +1,4 @@
-<h3>Hello, my name is Richard, and I'm a passionate software developer from Ireland.</h3>
+<h3>Hello, my name is Richard, and I'm from Ireland.</h3>
 <p>I was a student at <a href="https://www.gmit.ie/higher-diploma-in-science-in-software-development">Atlantic Technological University</a></p>
 
 <p>Currently doing <a 
