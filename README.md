@@ -1,6 +1,8 @@
 <h3>Hello, my name is Richard, and I'm a passionate software developer from Ireland.</h3>
 <p>I was a student at <a href="https://www.gmit.ie/higher-diploma-in-science-in-software-development">Atlantic Technological University</a></p>
-<p>Currently doing <a href="  https://ireland.generation.org/dublin/aws-restart">  AWS re/start with Generation.</a> </p>
+<p>Currently doing <a href="   </a> </p>
+
+<p>Currently doing<a href="    https://ireland.generation.org/dublin/aws-restart">AWS re/start with Generation. </a></p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px; border: 1px solid #ccc;">
   <div style="margin-bottom: 10px;">
