@@ -17,17 +17,11 @@
 Hello! I'm Richard from Ireland, a passionate software developer enthusiastic about AWS.
 
 ## Overview
-- **Background:** Alumni of Atlantic Technological University.
-- **Currently :** doing the AWS re/start program with Generation.
-
-## Education
-- **Atlantic Technological University:** Higher Diploma in Science in Software Development.
-
-## Current Focus
-- **Learning:** Exploring AWS technologies and enhancing software development skills.
+- Background: Studied Software Development at Atlantic Technological University.
+- Currently: doing the AWS re/start program with Generation.
 
 ## Interests
-- **Passion:** Dedicated to mastering AWS and advancing software development expertise.
+- Passion: Dedicated to exploring AWS and advancing software development.
 
 ```
 
