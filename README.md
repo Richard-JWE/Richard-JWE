@@ -4,6 +4,7 @@
 <p>Currently doing <a 
 href="https://ireland.generation.org/dublin/aws-restart"> AWS re/start with Generation.</a></p> 
 
+I enjoy AWS and learning about software
 <br>
 <div style="margin-top: 20px;">
   <a href="https://github.com/Richard-JWE"><img src="https://img.shields.io/github/followers/Richard-JWE?label=Follow&style=social" alt="Follow" /></a>
