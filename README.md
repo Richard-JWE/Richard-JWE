@@ -1,5 +1,6 @@
 <h3>Hello, my name is Richard, and I'm a passionate software developer from Ireland.</h3>
 <p>I was a student at <a href="https://www.gmit.ie/higher-diploma-in-science-in-software-development">Atlantic Technological University</a> and currently looking for employment now</p>
+<p>Currently doing AWS re/start with Generation. </p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px; border: 1px solid #ccc;">
   <div style="margin-bottom: 10px;">
