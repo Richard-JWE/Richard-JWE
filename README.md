@@ -1,4 +1,4 @@
-<h3>Hello, my name is Richard, and I'm from Ireland</h3>
+<h3>Hello, my name is Richard</h3>
 
 <br>
 <div style="margin-top: 20px;">
