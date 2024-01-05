@@ -35,7 +35,6 @@ Hello! I'm Richard from Ireland, a passionate software developer enthusiastic ab
 ## Interests
 - **Passion:** Dedicated to mastering AWS and advancing software development expertise.
 
-Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/richard-jameson-b89730133/). Let's share and learn together!
 ```
 
 
