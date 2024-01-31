@@ -21,7 +21,8 @@ Hello! I'm Richard from Ireland, a passionate software developer enthusiastic ab
 
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/richard-jameson-b89730133/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/richard-jameson-b89730133/)
+
 
 
 ## Fun Facts
