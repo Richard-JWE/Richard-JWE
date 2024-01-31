@@ -22,7 +22,7 @@ Hello! I'm Richard from Ireland, a passionate software developer enthusiastic ab
 
 
 ## GitHub Stats
-![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard-JWE&show_icons=true&count_private=true)
+![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard-JWE)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
