@@ -20,14 +20,9 @@ Hello! I'm Richard from Ireland, a passionate software developer enthusiastic ab
 - **Other Technologies:** Git, Docker
 
 
-
-## GitHub Stats
-![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard-JWE)
-
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Website/Blog](https://www.yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/richard-jameson-b89730133/)
+
 
 ## Fun Facts
 - 😄 Pronouns: He/Him
