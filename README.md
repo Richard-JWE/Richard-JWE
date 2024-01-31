@@ -14,22 +14,15 @@ Hello! I'm Richard from Ireland, a passionate software developer enthusiastic ab
 - Passion: Dedicated to exploring AWS and advancing software development.
 
 ## Skills
-- **Programming Languages:** Python, JavaScript
-- **Web Technologies:** HTML, CSS, React
+- **Programming Languages:** Python, Java
+- **Web Technologies:** HTML, CSS, React, Angular, Ionic
 - **AWS Services:** EC2, S3, Lambda, IAM
 - **Other Technologies:** Git, Docker
 
-## Projects
-- [Project 1: Brief description and link]
-- [Project 2: Brief description and link]
-- ...
 
-## Achievements
-- Completed AWS Certified Solutions Architect - Associate
-- Published an article on [Medium/Dev.to/Your Blog] about [Topic]
 
 ## GitHub Stats
-![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
+![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard-JWE&show_icons=true&count_private=true)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
