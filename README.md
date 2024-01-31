@@ -2,9 +2,11 @@
 
 ```markdown
 
-
 Heading level 1
 ===============
+
+
+
 # Richard's Profile
 
 Hello! I'm Richard from Ireland, a passionate software developer enthusiastic about AWS.
@@ -15,6 +17,11 @@ Hello! I'm Richard from Ireland, a passionate software developer enthusiastic ab
 
 ## Interests
 - Passion: Dedicated to exploring AWS and advancing software development.
+
+
+
+
+
 
 ```
 
