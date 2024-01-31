@@ -1,7 +1,5 @@
 
 
-```markdown
-
 # Richard's Profile
 
 Hello! I'm Richard from Ireland, a passionate software developer enthusiastic about AWS.
@@ -25,6 +23,7 @@ Hello! I'm Richard from Ireland, a passionate software developer enthusiastic ab
 
 
 
+
 ## Fun Facts
 - 😄 Pronouns: He/Him
 - 🌱 Currently learning: Terraform for infrastructure as code
@@ -32,8 +31,6 @@ Hello! I'm Richard from Ireland, a passionate software developer enthusiastic ab
 
 
 
-
-```
 
 
 
