@@ -2,9 +2,6 @@
 
 ```markdown
 
-Heading level 1
-===============
-
 
 
 # Richard's Profile
